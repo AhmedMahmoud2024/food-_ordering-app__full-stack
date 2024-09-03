@@ -1,5 +1,5 @@
 name: auth
-description: "A new Flutter package project."
+description: "Authentication Module."
 version: 0.0.1
 homepage:
 
@@ -11,11 +11,13 @@ dependencies:
   flutter:
     sdk: flutter
 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
-
+    
+  google_sign_in: ^6.2.1
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
